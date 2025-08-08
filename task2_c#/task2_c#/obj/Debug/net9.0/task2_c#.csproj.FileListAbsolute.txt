@@ -1,0 +1,14 @@
+D:\VS_Projects\task2_c#\task2_c#\bin\Debug\net9.0\task2_c#.exe
+D:\VS_Projects\task2_c#\task2_c#\bin\Debug\net9.0\task2_c#.deps.json
+D:\VS_Projects\task2_c#\task2_c#\bin\Debug\net9.0\task2_c#.runtimeconfig.json
+D:\VS_Projects\task2_c#\task2_c#\bin\Debug\net9.0\task2_c#.dll
+D:\VS_Projects\task2_c#\task2_c#\bin\Debug\net9.0\task2_c#.pdb
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\task2_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\task2_c#.AssemblyInfoInputs.cache
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\task2_c#.AssemblyInfo.cs
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\task2_c#.csproj.CoreCompileInputs.cache
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\task2_c#.dll
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\refint\task2_c#.dll
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\task2_c#.pdb
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\task2_c#.genruntimeconfig.cache
+D:\VS_Projects\task2_c#\task2_c#\obj\Debug\net9.0\ref\task2_c#.dll
