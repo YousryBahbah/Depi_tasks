@@ -96,7 +96,7 @@ namespace task2_c_
                 else { _balance = value; }
             }
         }
-            public void ShowAccountDetails()
+            public virtual void ShowAccountDetails()
         {
             Console.WriteLine(FullName);
             Console.WriteLine(phoneNumber);
@@ -118,6 +118,7 @@ namespace task2_c_
                 return true;
             }
         }
+        public virtual decimal CalculateInterest() => 0;
     }
 }
     

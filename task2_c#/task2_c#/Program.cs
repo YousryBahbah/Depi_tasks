@@ -4,10 +4,15 @@
     {
         static void Main(string[] args)
         {
-           TheBank B1 = new TheBank();
-           TheBank B2 = new TheBank("Ali","14725836914725","01007538841","CAL");
-            B1.ShowAccountDetails();
-            B2.ShowAccountDetails();
+          SavingAccount sa = new SavingAccount(); 
+         CurrentAccount ca = new CurrentAccount();
+            List<TheBank> accounts = new List<TheBank>() { sa ,ca };
+            foreach (var account in accounts)
+            {
+                account.ShowAccountDetails();
+                account.CalculateInterest();
+            }
+            
         }
     }
 }
