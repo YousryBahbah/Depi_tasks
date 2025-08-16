@@ -1,0 +1,14 @@
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\bin\Debug\net9.0\task4OOP_c#.exe
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\bin\Debug\net9.0\task4OOP_c#.deps.json
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\bin\Debug\net9.0\task4OOP_c#.runtimeconfig.json
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\bin\Debug\net9.0\task4OOP_c#.dll
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\bin\Debug\net9.0\task4OOP_c#.pdb
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\task4OOP_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\task4OOP_c#.AssemblyInfoInputs.cache
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\task4OOP_c#.AssemblyInfo.cs
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\task4OOP_c#.csproj.CoreCompileInputs.cache
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\task4OOP_c#.dll
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\refint\task4OOP_c#.dll
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\task4OOP_c#.pdb
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\task4OOP_c#.genruntimeconfig.cache
+D:\VS_Projects\task4OOP_c#\task4OOP_c#\obj\Debug\net9.0\ref\task4OOP_c#.dll
