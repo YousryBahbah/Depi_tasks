@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .dark{
+            background-color: #333;
+            color: #ddd;
+        }
+        .light{
+            background-color: #ddd;
+            color: #333;
+        }
+        .btn{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+        }
+        .btn-dark{
+            background-color: #333;
+            border: 2px solid gray;
+        }
+        .btn-light{
+            background-color: lightgray;
+            border: 2px solid #333;
+        }
+        #p1{
+            padding: 10px;
+            background-color: antiquewhite;
+        }
+        /*#p1:hover{
+            background-color: brown;
+            color: #fff;
+        }*/
+    </style>
+</head>
+<body>
+    <div class="theme">
+        <button class="btn btn-dark"  id="btn-dark"></button>
+        <button class="btn btn-light" id="btn-light"></button>
+    </div>
+    <input type="text" id="username">
+    <select id="fonts">
+        <option value="20px">20</option>
+        <option value="30px">30</option>
+        <option value="40px">40</option>
+    </select>
+    <button id="btn1">click</button>
+    <p id="p1"></p>
+    <script src="assets/js/events.js"></script>
+</body>
+</html>

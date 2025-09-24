@@ -1,0 +1,10 @@
+submit => data submittion 
+reset => clear data
+button => no job 
+
+button 
+<button type=submit>Send</button>
+input 
+<input type=submit value=Send> 
+file path ? query string 
+http://127.0.0.1:5500/form.html?name=&email=&phone=&password=&confirm=
